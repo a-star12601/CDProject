@@ -1,0 +1,246 @@
+State I0 :
+('P->.S', '$')
+('S->.tp()fCd', '$')
+
+
+State I1 :
+('P->S.', '$')
+
+
+State I2 :
+('S->t.p()fCd', '$')
+
+
+State I3 :
+('S->tp.()fCd', '$')
+
+
+State I4 :
+('S->tp(.)fCd', '$')
+
+
+State I5 :
+('S->tp().fCd', '$')
+
+
+State I6 :
+('S->tp()f.Cd', '$')
+('C->.DI', 'd')
+('D->.tL;', 'i')
+
+
+State I7 :
+('S->tp()fC.d', '$')
+
+
+State I8 :
+('C->D.I', 'd')
+('I->.i(E)fTdi(E)fTdi(E)fTd', 'd')
+
+
+State I9 :
+('D->t.L;', 'i')
+('L->.v,v,v', ';')
+
+
+State I10 :
+('S->tp()fCd.', '$')
+
+
+State I11 :
+('C->DI.', 'd')
+
+
+State I12 :
+('I->i.(E)fTdi(E)fTdi(E)fTd', 'd')
+
+
+State I13 :
+('D->tL.;', 'i')
+
+
+State I14 :
+('L->v.,v,v', ';')
+
+
+State I15 :
+('I->i(.E)fTdi(E)fTdi(E)fTd', 'd')
+('E->.XRX', ')')
+('X->.A', 'o')
+('A->.v', 'o')
+('A->.n', 'o')
+
+
+State I16 :
+('D->tL;.', 'i')
+
+
+State I17 :
+('L->v,.v,v', ';')
+
+
+State I18 :
+('I->i(E.)fTdi(E)fTdi(E)fTd', 'd')
+
+
+State I19 :
+('E->X.RX', ')')
+('R->.o', 'v')
+('R->.o', 'n')
+
+
+State I20 :
+('X->A.', 'o')
+
+
+State I21 :
+('A->v.', 'o')
+
+
+State I22 :
+('A->n.', 'o')
+
+
+State I23 :
+('L->v,v.,v', ';')
+
+
+State I24 :
+('I->i(E).fTdi(E)fTdi(E)fTd', 'd')
+
+
+State I25 :
+('E->XR.X', ')')
+('X->.A', ')')
+('A->.v', ')')
+('A->.n', ')')
+
+
+State I26 :
+('R->o.', 'v')
+('R->o.', 'n')
+
+
+State I27 :
+('L->v,v,.v', ';')
+
+
+State I28 :
+('I->i(E)f.Tdi(E)fTdi(E)fTd', 'd')
+('T->.b(v);', 'd')
+
+
+State I29 :
+('E->XRX.', ')')
+
+
+State I30 :
+('X->A.', ')')
+
+
+State I31 :
+('A->v.', ')')
+
+
+State I32 :
+('A->n.', ')')
+
+
+State I33 :
+('L->v,v,v.', ';')
+
+
+State I34 :
+('I->i(E)fT.di(E)fTdi(E)fTd', 'd')
+
+
+State I35 :
+('T->b.(v);', 'd')
+
+
+State I36 :
+('I->i(E)fTd.i(E)fTdi(E)fTd', 'd')
+
+
+State I37 :
+('T->b(.v);', 'd')
+
+
+State I38 :
+('I->i(E)fTdi.(E)fTdi(E)fTd', 'd')
+
+
+State I39 :
+('T->b(v.);', 'd')
+
+
+State I40 :
+('I->i(E)fTdi(.E)fTdi(E)fTd', 'd')
+('E->.XRX', ')')
+('X->.A', 'o')
+('A->.v', 'o')
+('A->.n', 'o')
+
+
+State I41 :
+('T->b(v).;', 'd')
+
+
+State I42 :
+('I->i(E)fTdi(E.)fTdi(E)fTd', 'd')
+
+
+State I43 :
+('T->b(v);.', 'd')
+
+
+State I44 :
+('I->i(E)fTdi(E).fTdi(E)fTd', 'd')
+
+
+State I45 :
+('I->i(E)fTdi(E)f.Tdi(E)fTd', 'd')
+('T->.b(v);', 'd')
+
+
+State I46 :
+('I->i(E)fTdi(E)fT.di(E)fTd', 'd')
+
+
+State I47 :
+('I->i(E)fTdi(E)fTd.i(E)fTd', 'd')
+
+
+State I48 :
+('I->i(E)fTdi(E)fTdi.(E)fTd', 'd')
+
+
+State I49 :
+('I->i(E)fTdi(E)fTdi(.E)fTd', 'd')
+('E->.XRX', ')')
+('X->.A', 'o')
+('A->.v', 'o')
+('A->.n', 'o')
+
+
+State I50 :
+('I->i(E)fTdi(E)fTdi(E.)fTd', 'd')
+
+
+State I51 :
+('I->i(E)fTdi(E)fTdi(E).fTd', 'd')
+
+
+State I52 :
+('I->i(E)fTdi(E)fTdi(E)f.Td', 'd')
+('T->.b(v);', 'd')
+
+
+State I53 :
+('I->i(E)fTdi(E)fTdi(E)fT.d', 'd')
+
+
+State I54 :
+('I->i(E)fTdi(E)fTdi(E)fTd.', 'd')
+
+

@@ -1,0 +1,15 @@
+int main()
+ begin
+ int n1, n2, n3;
+  if( 1 > 2 )
+       begin
+           printf( n1);
+       end
+       if ( 2 < 1 )
+       begin
+      printf( n2);
+       end
+       if( 3 >= 2 )
+           begin
+           printf( n3);
+end

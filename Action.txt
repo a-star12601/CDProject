@@ -1,0 +1,56 @@
+            o         f          )         v         (         ;         d        t         b         n        p         ,         $         i
+0                                                                           Shift 2                                                           
+1                                                                                                                             Accept          
+2                                                                                                        Shift 3                              
+3                                              Shift 4                                                                                        
+4                          Shift 5                                                                                                            
+5               Shift 6                                                                                                                       
+6                                                                           Shift 9                                                           
+7                                                                 Shift 10                                                                    
+8                                                                                                                                     Shift 12
+9                                   Shift 14                                                                                                  
+10                                                                                                                          Reduce 1          
+11                                                                Reduce 2                                                                    
+12                                            Shift 15                                                                                        
+13                                                      Shift 16                                                                              
+14                                                                                                                Shift 17                    
+15                                  Shift 21                                                   Shift 22                                       
+16                                                                                                                                    Reduce 3
+17                                  Shift 23                                                                                                  
+18                        Shift 24                                                                                                            
+19   Shift 26                                                                                                                                 
+20   Reduce 9                                                                                                                                 
+21  Reduce 10                                                                                                                                 
+22  Reduce 11                                                                                                                                 
+23                                                                                                                Shift 27                    
+24             Shift 28                                                                                                                       
+25                                  Shift 31                                                   Shift 32                                       
+26                                  Reduce 7                                                   Reduce 7                                       
+27                                  Shift 33                                                                                                  
+28                                                                                   Shift 35                                                 
+29                        Reduce 6                                                                                                            
+30                        Reduce 9                                                                                                            
+31                       Reduce 10                                                                                                            
+32                       Reduce 11                                                                                                            
+33                                                      Reduce 4                                                                              
+34                                                                Shift 36                                                                    
+35                                            Shift 37                                                                                        
+36                                                                                                                                    Shift 38
+37                                  Shift 39                                                                                                  
+38                                            Shift 40                                                                                        
+39                        Shift 41                                                                                                            
+40                                  Shift 21                                                   Shift 22                                       
+41                                                      Shift 43                                                                              
+42                        Shift 44                                                                                                            
+43                                                                Reduce 8                                                                    
+44             Shift 45                                                                                                                       
+45                                                                                   Shift 35                                                 
+46                                                                Shift 47                                                                    
+47                                                                                                                                    Shift 48
+48                                            Shift 49                                                                                        
+49                                  Shift 21                                                   Shift 22                                       
+50                        Shift 51                                                                                                            
+51             Shift 52                                                                                                                       
+52                                                                                   Shift 35                                                 
+53                                                                Shift 54                                                                    
+54                                                                Reduce 5                                                                    
